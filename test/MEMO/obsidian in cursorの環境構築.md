@@ -24,14 +24,17 @@ type: 備忘録
 ## TODO
 - [ ] obsidian
 	- [x] インストール
-	- [x] 拡張機能インストール（使用感を書く）
-		- [ ] calender
-		- [ ] dataview
-		- [ ] iconize
-		- [ ] MultiProperties
-		- [ ] Outliner
-		- [ ] Templater
-		- [ ] Thino
+	- [ ] 拡張機能
+		- [ ] インストール（使用感を書く）
+			- [x] calender
+			- [x] dataview
+			- [x] iconize
+			- [x] MultiProperties
+			- [x] Outliner
+			- [x] Templater
+			- [x] Thino
+		- vaultを変更したとき
+			- .obsidianをコピーして、設定から有効化する
 	- [ ] テンプレート作成
 		- [x] 日記の(途中)
 		- [ ] 汎用的なやつ
@@ -42,7 +45,7 @@ type: 備忘録
 		- 
 	- [ ] READMEを書く
 	- [ ] 運用ルールを決める、書く
-- [x] cursor
+- [ ] cursor
 	- [ ] インストール
 	- [ ] obsidianと一緒に使ってみる
 ## 内容
