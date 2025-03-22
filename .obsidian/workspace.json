@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 261.5
   },
   "right": {
     "id": "9c8f647640d6979e",
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/MEMO/obsidian in cursorの環境構築.md",
+                "file": "test/Template/template_diary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "obsidian in cursorの環境構築からのアウトゴーイングリンク"
+              "title": "template_diaryからのアウトゴーイングリンク"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/MEMO/obsidian in cursorの環境構築.md",
+                "file": "test/Template/template_diary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "obsidian in cursorの環境構築のアウトライン"
+              "title": "template_diaryのアウトライン"
             }
           },
           {
@@ -209,10 +209,10 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "279ca3f39aca8a35",
+  "active": "2670f23ba57c0a35",
   "lastOpenFiles": [
-    "test/Template/template_diary.md",
     "test/MEMO/obsidian in cursorの環境構築.md",
+    "test/Template/template_diary.md",
     "無題のファイル.md",
     "test/Template/template01.md",
     "test/Daily/2025-03-13.md",
