@@ -43,12 +43,14 @@ type: 備忘録
 		- [Obsidian Gitを導入してみた](https://zenn.dev/ayumukob/articles/3b034fcb6874d2)
 		- [Obsidian Sync を無料で使う方法! (有料プランは不要) | HackerNoon](https://hackernoon.com/lang/ja/%E6%9C%89%E6%96%99%E3%83%97%E3%83%A9%E3%83%B3%E3%81%AA%E3%81%97%E3%81%A7Obsidian-Sync%E3%82%92%E7%84%A1%E6%96%99%E3%81%A7%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95)
 		- [ ] **ガワだけのものを用意して配る**
-	- [ ] READMEを書く
 	- [ ] 運用ルールを決める、書く
+		- [ ] READMEを書く
+		- [ ] Zettekastenの運用.mdのリファクタリング
+		- [ ] NotebookLMの活用
 - [ ] cursor
 	- [x] インストール
-	- [ ] obsidianと一緒に使ってみる
-	- [ ] deepseekのapiを使って動かす
+	- [x] obsidianと一緒に使ってみる
+	- [ ] deepseekのapiを使って動かす(なくてもいけた)
 ## 内容
 
 
