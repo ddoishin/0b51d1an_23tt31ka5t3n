@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/MEMO/obsidian in cursorの環境構築.md",
+                "file": "test/Zettelkasten/PermanentNote/なおきの極意.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian in cursorの環境構築"
-            }
-          },
-          {
-            "id": "e0e90ffa11316c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/Zettelkasten/LiteratureNote/イラスト最速上達法_なおき.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "イラスト最速上達法_なおき"
-            }
-          },
-          {
-            "id": "49175e9142890a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test/Zettelkasten/LiteratureNote/上達するには、この『クセ』を直して下さい.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "上達するには、この『クセ』を直して下さい"
+              "title": "なおきの極意"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,12 +198,13 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "49175e9142890a66",
+  "active": "aa45187f5f1057f9",
   "lastOpenFiles": [
+    "test/MEMO/obsidian in cursorの環境構築.md",
+    "test/Zettelkasten/PermanentNote/なおきの極意.md",
     "test/Zettelkasten/LiteratureNote/イラスト最速上達法_なおき.md",
     "test/Zettelkasten/LiteratureNote/上達するには、この『クセ』を直して下さい.md",
     "test/Zettelkasten/Zettelkastenの運用.md",
-    "test/MEMO/obsidian in cursorの環境構築.md",
     "test/Template/template_diary.md",
     "test/Daily/2025-03-23.md",
     "test/Daily/2025-03-13.md",
