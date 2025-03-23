@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Template/template_diary.md",
+                "file": "test/MEMO/obsidian in cursorの環境構築.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template_diary"
+              "title": "obsidian in cursorの環境構築"
             }
           }
         ],
@@ -225,14 +225,15 @@
   },
   "active": "db4cf962201344fe",
   "lastOpenFiles": [
-    "test/Daily/2025-03-23.md",
+    "test/REDME.md",
     "test/Template/template_diary.md",
+    "test/Template/template01.md",
+    "test/Daily/2025-03-23.md",
+    "test/MEMO/obsidian in cursorの環境構築.md",
     "test/Daily/2025-03-13.md",
     "2025-03-23.md",
     "test/Daily/2025-03-12.md",
-    "test/MEMO/obsidian in cursorの環境構築.md",
     "無題のファイル.md",
-    "test/Template/template01.md",
     "test/Daily/無題のファイル.canvas",
     "test/Zettelkasten/Zettelkastenの運用",
     "test/Zettelkasten/PermanentNote",
@@ -243,7 +244,6 @@
     "test/Template",
     "test/MEMO",
     "test/Daily",
-    "test/REDME.md",
     "test"
   ]
 }
