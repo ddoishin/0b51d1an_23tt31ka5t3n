@@ -1,0 +1,32 @@
+{
+    "fileEncoding": "utf8",
+    "lineEndings": "lf",
+    "indentSize": 2,
+    "useTabs": false,
+    "trimTrailingWhitespace": true,
+    "insertFinalNewline": true,
+    "rules": {
+        "*.md": {
+            "fileEncoding": "utf8",
+            "lineEndings": "lf"
+        }
+    },
+    "aiRules": {
+        "language": "ja",
+        "responseFormat": "markdown",
+        "codeStyle": {
+            "indentSize": 2,
+            "useTabs": false,
+            "lineEndings": "lf"
+        },
+        "fileEncoding": "utf8",
+        "customInstructions": {
+            "fileEncoding": "utf8",
+            "lineEndings": "lf",
+            "indentSize": 2,
+            "useTabs": false,
+            "trimTrailingWhitespace": true,
+            "insertFinalNewline": true
+        }
+    }
+} 
