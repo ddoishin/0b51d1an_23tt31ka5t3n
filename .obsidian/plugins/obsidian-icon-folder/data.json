@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⚔",
-      "LiAlignHorizontalJustifyEnd",
-      "⚙",
-      "LiTemplaterIcon",
-      "📝"
+      "🔖",
+      "💡",
+      "🧠",
+      "📚",
+      "🔍"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,8 +34,18 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "test/Daily": "📅",
-  "test/MEMO": "📝",
-  "test/Template": "⚙",
-  "test/Zettelkasten": "⚔"
+  "Daily": "📅",
+  "MEMO": "📝",
+  "Template": "⚙",
+  "Zettelkasten": "⚔",
+  "Prompts": "🤖",
+  "References": "🔗",
+  "References/Clippngs": "📋",
+  "References/Highlights": "🖍",
+  "References/LLMOutputs": "💬",
+  "References/Summaries": "🔍",
+  "Zettelkasten/LiteratureNote": "📚",
+  "Zettelkasten/PermanentNote": "🧠",
+  "Zettelkasten/FleetingNote": "💡",
+  "Zettelkasten/IndexNote": "🔖"
 }

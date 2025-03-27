@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "test/Template",
+  "templates_folder": "Template",
   "templates_pairs": [
     [
       "",
@@ -15,12 +15,24 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "test/Template",
-      "template": "test/Template/template01.md"
+      "folder": "MEMO",
+      "template": "Template/template_memo.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Zettelkasten/FleetingNote",
+      "template": "Template/template_FeelingNote.md"
+    },
+    {
+      "folder": "Zettelkasten/LiteratureNote",
+      "template": "Template/template_LiteratureNote.md"
+    },
+    {
+      "folder": "Zettelkasten/PermanentNote",
+      "template": "Template/template_PermanentNote.md"
+    },
+    {
+      "folder": "Zettelkasten/IndexNote",
+      "template": "Template/template_IndexNote.md"
     }
   ],
   "enable_file_templates": false,

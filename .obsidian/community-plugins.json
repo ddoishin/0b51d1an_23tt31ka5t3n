@@ -1,10 +1,12 @@
 [
-  "obsidian-git",
   "calendar",
   "dataview",
   "obsidian-icon-folder",
   "multi-properties",
   "obsidian-outliner",
   "templater-obsidian",
-  "obsidian-memos"
+  "obsidian-memos",
+  "table-editor-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-advanced-uri"
 ]
